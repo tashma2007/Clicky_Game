@@ -1,26 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react';
+import Board from './components/board'
+import initializeDeck from './deck'
 
-function App() {
+export default function App() {
+  const [cards, setCards] = useState([])
+  const [flipped, setFlipped] = useState([])
+
+  useEffect(() => {
+    setCards(initializeDeck())
+  }, [])
+
+  const handleClick = (id) => setFlipped([... flipped, id])
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <p>Click on an image to earn points, but don't click on any more than once!</p>
+    <Board cards={cards} flipped={flipped} handleClick=
+    {handleClick} />
+
     </div>
-  );
+  )      
 }
 
-export default App;
+
