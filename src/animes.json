@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Bleach",
+      "image": "http://animefanatika.co.za/afwp/wp-content/uploads/2016/08/Bleach-cheese-300x300.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Howl's Moving Castle",
+      "image": "https://resizing.flixster.com/eBeiVC0yevlOU3upJaQfx3cysGQ=/300x300/v1.bjsxODY5NTc4O2o7MTgxMTE7MTIwMDsyMjE4OzEyMDA"    
+    },
+    {
+      "id": 3,
+      "name": "Blood Plus",
+      "image": "https://otsukai.manga.tokyo/imageopt?key=public/item/10967/original-5cbc08ed9c119.jpg&operation=thumbnail&w=300"
+    },
+    {
+      "id": 4,
+      "name": "Naruto",
+      "image": "https://live.staticflickr.com/5746/22787727143_2d01471a52.jpg" 
+    },
+    {
+      "id": 5,
+      "name": "Spirited Away",
+      "image": "http://geekysweetie.com/wp-content/uploads/2018/02/spiritedaway-300x300.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ponyo",
+      "image": "https://www.dca.org.uk/assets/ce-cache/made/assets/media-carousel/lg_Ponyo_300_300_70.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dragon Ball Z",
+      "image": "http://imglogo.podbean.com/dir-logo/216596/216596_300x300.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rurouni Kenshin",
+      "image": "https://pl.scdn.co/images/pl/default/f2920f7370d4d55180fe5d04e9f6e5e959491d92"
+    },
+    {
+      "id": 9,
+      "name": "Cowboy Bebop",
+      "image": "https://resizing.flixster.com/YPpsS5RFT0cI7xnIyF0eLtGoHQg=/300x300/v1.bjszOTY2NTE7ajsxODA5NDsxMjAwOzQwMDI7MjcwMA"
+    },
+    {
+      "id": 10,
+      "name": "Soul Eater",
+      "image": "https://resizing.flixster.com/ZWOcz2qQADS49ChS1BCTTKjGAR0=/300x300/v1.bjsyMTEzNDc0O2o7MTgxMTQ7MTIwMDsyNDAwOzEyMDA"
+    },
+    {
+      "id": 11,
+      "name": "One Punch Man",
+      "image": "https://www.bdfancomics.ch/wp-content/uploads/2018/12/vignette-one-punch-man-e1544479634346-300x300.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Blue Exorcist",
+      "image": "https://figurex.net/wp-content/uploads/2016/10/ao-no-exorcist-300x300.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Attack on Titan",
+      "image": "https://shortcut-test2.s3.amazonaws.com/uploads/project/attachment/16128/default_attack_on_titan.png"
+    },
+    {
+      "id": 14,
+      "name": "Inuyasha",
+      "image": "https://i0.wp.com/eimusics.com/wp-content/uploads/2014/11/Inuyasha.jpg?resize=300%2C300&ssl=1"
+    }
+  ]
