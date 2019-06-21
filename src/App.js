@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import AnimeCard from "./components/AnimeCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import animes from "./anime.json";
+import animes from "./animes.json";
 import Navbar from "./components/Navbar";
 
 
@@ -19,7 +19,7 @@ class App extends Component {
   imageClick = event => {
     const currentPicture = event.target.src;
     const pictureClickedAlready =
-      this.state.clickedAnime.indexOf(currentPicture) > -1;
+      this.state.clickedAnimes.indexOf(currentPicture) > -1;
 
       if (pictureClickedAlready) {
         this.setState({
